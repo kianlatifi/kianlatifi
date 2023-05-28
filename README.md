@@ -3,7 +3,7 @@
 </h1>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=aad100&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=8eb573&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
 
@@ -38,7 +38,7 @@
 <p align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=kianlatifi&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&line_height=23.5&count_private=true" />
+  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=kianlatifi&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&line_height=23.9&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="49.5%" align="center" src="https://streak-stats.demolab.com?user=kianlatifi&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
@@ -47,7 +47,7 @@
 </p>
 
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kianlatifi&theme=merko&hide_border=true&point=68b487&title_color=aad100&color=68b487&radius=6)](https://github.com/kianlatifi/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kianlatifi&hide_border=true&bg_color=282c34&title_color=e4bf7a&color=df6d74&line=8eb573&point=df6d74&radius=5)](https://github.com/kianlatifi)
 
 ------
 
