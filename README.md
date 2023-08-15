@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FCC624&labelColor=282828">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=282828">
     <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=282828">
     <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
     <img src="https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=282828">
     <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=282828">
